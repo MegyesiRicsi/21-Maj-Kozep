@@ -1,0 +1,6 @@
+Z:\21 majus középszint\2. Karácsonyi díszek\karacsonyCLI\karacsonyCLI\bin\Debug\karacsonyCLI.exe.config
+Z:\21 majus középszint\2. Karácsonyi díszek\karacsonyCLI\karacsonyCLI\bin\Debug\karacsonyCLI.exe
+Z:\21 majus középszint\2. Karácsonyi díszek\karacsonyCLI\karacsonyCLI\bin\Debug\karacsonyCLI.pdb
+Z:\21 majus középszint\2. Karácsonyi díszek\karacsonyCLI\karacsonyCLI\obj\Debug\karacsonyCLI.csprojAssemblyReference.cache
+Z:\21 majus középszint\2. Karácsonyi díszek\karacsonyCLI\karacsonyCLI\obj\Debug\karacsonyCLI.exe
+Z:\21 majus középszint\2. Karácsonyi díszek\karacsonyCLI\karacsonyCLI\obj\Debug\karacsonyCLI.pdb
